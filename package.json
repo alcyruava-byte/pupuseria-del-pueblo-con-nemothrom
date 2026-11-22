@@ -1,0 +1,9 @@
+{
+  "name": "pupuseria-del-pueblo",
+  "version": "1.0.0",
+  "description": "Pupusería del Pueblo: juego de cocina y política con ranking y duelos en línea",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "license": "ISC",
+  "dependencies": { "qrcode": "^1.5.4", "ws": "^8.22.1" }
+}
